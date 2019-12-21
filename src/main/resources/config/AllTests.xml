@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Tests Suite">
+
+	<!-- Author Ram Sabhanam -->
+  <test thread-count="5" name="All Tests TestNG" enabled="false">
+    <classes>
+      <class name="com.ramSabhanam.tests.SampleTests"/>
+    </classes>
+  </test>
+  
+  <test thread-count="5" name="All Tests Cucumber" enabled="true">
+    <classes>
+      <class name="com.ramSabhanam.runners.SampleRunner"/>
+    </classes>
+  </test>
+  
+</suite>

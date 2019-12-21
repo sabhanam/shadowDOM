@@ -1,0 +1,12 @@
+
+#Author:: Ram Sabhanam
+
+com.ramSabhanam.shadows.DownloadToolsBarShadow=com.ramSabhanam.shadows.DownloadsManagerShadow
+
+com.ramSabhanam.shadows.CRToolbarShadow=com.ramSabhanam.shadows.DownloadToolsBarShadow
+
+com.ramSabhanam.shadows.CRToolbarSearchField=com.ramSabhanam.shadows.CRToolbarShadow
+
+c#om.ramSabhanam.shadows.CRIconButton=com.ramSabhanam.shadows.CRToolbarSearchField
+
+#com.ramSabhanam.shadows.CRIconButton=com.ramSabhanam.shadows.CRToolbarShadow
