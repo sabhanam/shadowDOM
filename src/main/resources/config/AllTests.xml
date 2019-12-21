@@ -3,13 +3,13 @@
 <suite name="All Tests Suite">
 
 	<!-- Author Ram Sabhanam -->
-  <test thread-count="5" name="All Tests TestNG" enabled="false">
+  <test thread-count="5" name="All Tests TestNG" enabled="true">
     <classes>
       <class name="com.ramSabhanam.tests.SampleTests"/>
     </classes>
   </test>
   
-  <test thread-count="5" name="All Tests Cucumber" enabled="true">
+  <test thread-count="5" name="All Tests Cucumber" enabled="false">
     <classes>
       <class name="com.ramSabhanam.runners.SampleRunner"/>
     </classes>

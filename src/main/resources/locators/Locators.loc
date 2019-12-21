@@ -7,6 +7,6 @@ com.ramSabhanam.shadows.CRToolbarShadow=com.ramSabhanam.shadows.DownloadToolsBar
 
 com.ramSabhanam.shadows.CRToolbarSearchField=com.ramSabhanam.shadows.CRToolbarShadow
 
-c#om.ramSabhanam.shadows.CRIconButton=com.ramSabhanam.shadows.CRToolbarSearchField
+#com.ramSabhanam.shadows.CRIconButton=com.ramSabhanam.shadows.CRToolbarSearchField
 
 #com.ramSabhanam.shadows.CRIconButton=com.ramSabhanam.shadows.CRToolbarShadow
